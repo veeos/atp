@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi how r u what r u doing
-=======
-hi what is your name
->>>>>>> bugfix
+hi hello
